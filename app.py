@@ -142,7 +142,7 @@ def execute():
             else:
                 st.write("The Customer Will Not Leave The Bank")
            
-            st.write("The Price Of the House is :",answer)
+      
 
 # image=Image.open("house_sale.jpg")
 
